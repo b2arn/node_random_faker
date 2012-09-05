@@ -23,7 +23,7 @@
 		"url": "https://github.com/b2arn/node_random_faker.git"
 	},
 	"directories": {
-		"lib": "./lib",
+		"lib": "./lib"
 	},
 	"main": "./lib/index"
 }
