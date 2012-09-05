@@ -1,0 +1,29 @@
+{
+	"name": "node_random_faker",
+	"version": "0.0.1",
+	"description": "fakes crypto.randomBytes",
+	"keywords": ["test", "crypto"],
+	"author": {
+		"name": "Alexander Gitovich",
+		"email": "a.gitovich@gmail.com"
+	},
+	"preferGlobal": false,
+	"private": false,
+	"dependencies": {
+	},
+	"devDependencies": {
+	},
+	"bundledDependencies": [
+	],
+	"engines": {
+		"node": "~0.8.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/b2arn/node_random_faker.git"
+	},
+	"directories": {
+		"lib": "./lib",
+	},
+	"main": "./lib/index"
+}
