@@ -13,4 +13,4 @@ console.log(crypto.randomBytes(4));
 faker.restore();
 ```
 
-Result will be <Buffer 2a 2a 2a 2a>
+Result will be `<Buffer 2a 2a 2a 2a>`
